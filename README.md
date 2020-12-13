@@ -8,11 +8,18 @@ The following is a growing list of projects that I have completed on [Codecademy
 
 ## HTML <a name="html"></a>
 
+Learn how to structure HTML documents and write clearer, more accessible code using Semantic HTML.
+
+1. Fashion Blog
+2. Wine Festival
+
 ## CSS <a name="css"></a>
+
+Learn how to style elements using various visual CSS rules and make a website responsive.
 
 ## JavaScript <a name="javascript"></a>
 
-Learn aspects and concepts of JavaScript language and writing programs.
+Learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax.
 
 1. Temperature Converter
 2. Dog Age Calculator
@@ -24,3 +31,5 @@ Learn aspects and concepts of JavaScript language and writing programs.
 8. Number Guessing Game
 9. Secret Message
 10. Whale Language Translator
+11. Meal Generator
+12. Sports Team Stats
