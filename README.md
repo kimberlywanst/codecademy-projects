@@ -1,6 +1,6 @@
 # Front-End Engineer Career Path
 
-Front-end engineers work closely with designers to make websites beautiful, functional and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer too. 
+Front-end engineers work closely with designers to make websites beautiful, functional and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer too.
 
 The following is a growing list of projects that I have completed on [Codecademy Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path):
 
@@ -35,3 +35,6 @@ Learn programming fundamentals and basic object-oriented concepts using the late
 10. Whale Language Translator
 11. Meal Generator
 12. Sports Team Stats
+13. Mini Linter
+14. Lodash Library
+15. Credit Card Checker
