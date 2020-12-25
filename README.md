@@ -38,3 +38,6 @@ Learn programming fundamentals and basic object-oriented concepts using the late
 13. Mini Linter
 14. Lodash Library
 15. Credit Card Checker
+16. Organism Simulation
+17. Piano Keys Game
+18. Media Library
