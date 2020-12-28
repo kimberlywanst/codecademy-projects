@@ -4,20 +4,15 @@ Front-end engineers work closely with designers to make websites beautiful, func
 
 The following is a growing list of projects that I have completed on [Codecademy Front-End Engineer Path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path):
 
-- [HTML](#html)
-- [CSS](#css)
+- [HTML & CSS](#html-css)
 - [JavaScript](#javascript)
 
-## HTML <a name="html"></a>
+## HTML & CSS <a name="html-css"></a>
 
-Learn how to structure HTML documents and write clearer, more accessible code using Semantic HTML.
+Learn how to structure HTML documents and write clearer, more accessible code using Semantic HTML. Learn how to style elements using various visual CSS rules and make a website responsive.
 
 1. Fashion Blog
 2. Wine Festival
-
-## CSS <a name="css"></a>
-
-Learn how to style elements using various visual CSS rules and make a website responsive.
 
 ## JavaScript <a name="javascript"></a>
 
@@ -41,3 +36,6 @@ Learn programming fundamentals and basic object-oriented concepts using the late
 16. Organism Simulation
 17. Piano Keys Game
 18. Media Library
+19. School Catalog
+20. Message Mixer
+21. Human Resources Program
