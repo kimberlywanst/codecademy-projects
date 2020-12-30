@@ -13,7 +13,11 @@ Learn how to structure HTML documents and write clearer, more accessible code us
 
 1. Fashion Blog
 2. Wine Festival
-
+3. New York City Blo
+4. Healthy Recipes
+5. Photography Portfolio
+6. Arts & Crafts Store
+7. Paint Store
 ## JavaScript <a name="javascript"></a>
 
 Learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax.

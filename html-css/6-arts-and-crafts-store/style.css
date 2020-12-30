@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  background: #f6f6f6;
+  margin: 20px;
+}
+
+header {
+  background: url(images/header.webp);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  padding: 10px;
+}
+
+.brushes h2 {
+  background: mediumspringgreen;
+  margin-bottom: 20px;
+}
+
+.frames h2 {
+  background: lightcoral;
+  margin-bottom: 20px;
+}
+
+.paint h2 {
+  background: skyblue;
+  margin-bottom: 20px;
+}
+
+img {
+  padding-left: 10px;
+}
+
+h3,
+p {
+  padding: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+span {
+  color: blue;
+  font-weight: bold;
+}
