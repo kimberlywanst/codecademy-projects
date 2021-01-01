@@ -13,6 +13,11 @@ Learn how to structure HTML documents and write clearer, more accessible code us
 
 1. [Fashion Blog](/html-css/1-fashion-blog)
 2. [Wine Festival](/html-css/2-wine-festival)
+3. [New York City Blog](/html-css/3-new-york-city-blog)
+4. [Healthy Recipes](/html-css/4-healthy-recipes)
+5. [Photography Portfolio](/html-css/5-photography-portfolio)
+6. [Arts & Crafts Store](/html-css/6-arts-and-crafts-store)
+7. [Paint Store](/html-css/7-paint-store)
 
 ## JavaScript <a name="javascript"></a>
 
