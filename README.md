@@ -6,6 +6,7 @@ The following is a growing list of projects that I have completed on [Codecademy
 
 - [HTML & CSS](#html-css)
 - [JavaScript](#javascript)
+- [React](#react)
 
 ## HTML & CSS <a name="html-css"></a>
 
@@ -18,6 +19,9 @@ Learn how to structure HTML documents and write clearer, more accessible code us
 5. [Photography Portfolio](/html-css/5-photography-portfolio)
 6. [Arts & Crafts Store](/html-css/6-arts-and-crafts-store)
 7. [Paint Store](/html-css/7-paint-store)
+8. [Travel Novelist Website](/html-css/8-travel-novelist-website)
+9. [Burger Restaurant](/html-css/9-burger-restaurant)
+10. [Photography Landing Page](html-css/10-photography-landing)
 
 ## JavaScript <a name="javascript"></a>
 
@@ -45,3 +49,9 @@ Learn programming fundamentals and basic object-oriented concepts using the late
 20. [Message Mixer](/javascript/20-message-mixer)
 21. [Human Resources Program](/javascript/21-human-resources-program)
 22. [Wanderlust Travel Website](/javascript/22-wanderlust-travel-website)
+
+## React <a name="react"></a>
+
+Learn to build powerful interactive applications with React, a popular JavaScript library.
+
+1. [Animal Fun Facts](/react/01-animal-fun-facts)
